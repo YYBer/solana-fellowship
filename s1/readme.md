@@ -1,0 +1,1 @@
+Exercise to be built: A CLI tool in the language of your choice, that can create a new keypair, request an airdrop, and send SOL to another public key.

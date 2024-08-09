@@ -1,0 +1,1 @@
+Exercise: Build a web UI that can handle creation of a token, it's mint, transfer of that token, burning the token supply, and delegation the ata of this token to another public key.
